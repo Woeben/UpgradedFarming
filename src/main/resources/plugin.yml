@@ -1,0 +1,5 @@
+name: UpgradedFarming
+version: '${version}'
+main: me.woeben.upgradedfarming.UpgradedFarming
+api-version: '1.18'
+load: STARTUP
